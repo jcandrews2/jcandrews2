@@ -1,4 +1,4 @@
-## Hi, my name is James and I'm a Software Developer from Kansas City.
+## Hi, my name is Jimmy and I'm a Software Developer from Kansas City.
 <ul>
   <li>
     I'm currently working on my newest project <a href="https://github.com/jcandrews2/vibesbased">Vibesbased</a>.
