@@ -1,9 +1,6 @@
 ## Hi, my name is Jimmy and I'm a Software Developer from Kansas City.
 
 <p>
-  <a href="https://jcandrews2.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio" />
-  </a>
   <a href="https://www.linkedin.com/in/jcandrews2/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
