@@ -1,4 +1,4 @@
-## Hi, my name is Jimmy and I'm a Software Developer from Kansas City.
+## Hi, my name is Jimmy!
 
 <p>
   <a href="https://www.linkedin.com/in/jcandrews2/">
